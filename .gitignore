@@ -1,0 +1,7 @@
+static/css/output.css
+logs/
+node_modules/
+.vscode/
+package-lock.json
+*.pyc
+.env
